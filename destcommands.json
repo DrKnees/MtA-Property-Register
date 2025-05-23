@@ -3,5 +3,15 @@
     origin: "A"
     dest: "B"
     command: "/dest A B"
+  },
+  {
+    origin: "A"
+    dest: "C"
+    command: "/dest A B C"
+  },
+  {
+    origin: "B"
+    dest: "C"
+    command: "/dest B C"
   }
 ]
